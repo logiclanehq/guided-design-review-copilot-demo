@@ -14,6 +14,7 @@ using **GitHub Copilot Chat in Agent Mode**.
 - `sample-inputs.md` – Inputs provided during execution
 - `sample-output.md` – Review output produced by Copilot
 - `execution-notes.md` – Execution context and notes
+- `guided-design-review-copilot-agent-execution-demo.mp4` – A short walkthrough demonstrating the execution of this prompt in **GitHub Copilot Chat (Agent Mode)**, including step-by-step input collection and the generated Design Review Report.
 
 ## Important notes
 - This is an illustrative execution example
